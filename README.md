@@ -25,6 +25,13 @@ To get started with this project, you need to request access from the repository
 
 ### Result (Example)
 
+![Screenshot 2024-05-21 145342](https://github.com/SatriaBPY/Web-Testing-with-Pytest-and-Allure/assets/26727925/1c4d7540-ec99-466a-abbe-fab16134c84b)
+
+![Screenshot 2024-05-21 145400](https://github.com/SatriaBPY/Web-Testing-with-Pytest-and-Allure/assets/26727925/8fbd6731-5265-486c-9a04-b39f7fcc8bcc)
+
+![Screenshot 2024-05-21 145424](https://github.com/SatriaBPY/Web-Testing-with-Pytest-and-Allure/assets/26727925/a0cd9934-f05a-43f5-9982-37e232ca9e8a)
+
+![Screenshot 2024-05-21 145451](https://github.com/SatriaBPY/Web-Testing-with-Pytest-and-Allure/assets/26727925/a34a4d03-b9bc-44bb-bdb4-d4e7be3736a3)
 
 
 ## License
