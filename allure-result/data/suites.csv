@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 21 13:57:15 WIB 2024","Tue May 21 13:57:18 WIB 2024","2305","test","test_script","","","","test_detail_prod",""
+"passed","Tue May 21 13:57:10 WIB 2024","Tue May 21 13:57:11 WIB 2024","441","test","test_script","","","","test_login[problem_user-secret_sauce]",""
+"passed","Tue May 21 13:57:11 WIB 2024","Tue May 21 13:57:11 WIB 2024","377","test","test_script","","","","test_login[standard_user-secret_sauce1]",""
+"passed","Tue May 21 13:57:20 WIB 2024","Tue May 21 13:57:27 WIB 2024","6686","test","test_script","","","","test_checkout[samosa-reduce-3324]",""
+"passed","Tue May 21 13:57:11 WIB 2024","Tue May 21 13:57:15 WIB 2024","4285","test","test_script","","","","test_homepage",""
+"passed","Tue May 21 13:57:18 WIB 2024","Tue May 21 13:57:20 WIB 2024","2167","test","test_script","","","","test_cart",""

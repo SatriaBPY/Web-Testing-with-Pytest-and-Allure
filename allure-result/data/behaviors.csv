@@ -1,0 +1,6 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Product Detail","User should be able to see product descrition and price","0","0","1","0","0"
+"","Login","User should be able to login with valid credentials","0","0","2","0","0"
+"","Checkout","User should be finish the checkout","0","0","1","0","0"
+"","Homepage","User should be able showing of list product","0","0","1","0","0"
+"","Cart","User should be mange product in cart","0","0","1","0","0"
