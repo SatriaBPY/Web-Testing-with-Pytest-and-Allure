@@ -21,7 +21,7 @@ To get started with this project, you need to request access from the repository
 - Python 3.8 or higher
 - pip (pytest, pytest-sugar, allure-pytest, selenium)
 - Chrome WebDriver
-- allure 
+- allure (https://github.com/allure-framework/allure2/releases)
 
 ### Result (Example)
 
