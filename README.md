@@ -2,7 +2,11 @@
 # Web Testing with Pytest and Allure 
 
 
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg) ![Hangar Views](https://img.shields.io/hangar/views/:slug?style=flat) ![Github Created At](https://img.shields.io/github/created-at/SatriaBPY/Web-Testing-with-Pytest-and-Allure) ![Gitea language count](https://img.shields.io/gitea/languages/count/SatriaBPY/Web-Testing-with-Pytest-and-Allure?style=flat&color=green)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg) ![Github Created At](https://img.shields.io/github/created-at/SatriaBPY/Web-Testing-with-Pytest-and-Allure?style=flat&color=blue) ![GitHub language count](https://img.shields.io/github/languages/count/SatriaBPY/Web-Testing-with-Pytest-and-Allure?style=flat&color=purple) ![GitHub top language](https://img.shields.io/github/languages/top/SatriaBPY/Web-Testing-with-Pytest-and-Allure?color=yellow)
+
+
+
+
 
 
 
